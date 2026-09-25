@@ -1,0 +1,8 @@
+{
+  "name": "GeoShield-3D",
+  "description": "Mining engineering spatial microseismic hazard mapping and fault proximity simulation tool with interactive 3D WebGL viewport, Surpac (.str) & 3DEC (.txt) exports.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
